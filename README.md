@@ -1,7 +1,7 @@
 # TetrisGame
 A Tetris-like game that I built in React using Hooks. (Tutorial based)
 
-Hi! This game was made following along with a Youtube tutorial that can be found below:
+Hi! This game was made following along with a Youtube tutorial that can be found here:
  https://www.youtube.com/watch?v=ZGOaCxX8HIU&list=PLLDRFIlohka9xLurETpTkvo_IxVZm-xuP&
 
 Why did I build this? 
